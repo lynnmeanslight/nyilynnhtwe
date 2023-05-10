@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Code is my canvas, and the backend is where I paint my masterpiece. <br><br> <3 System Administration<br><br>
+"Code is my canvas, and the backend is where I paint my masterpiece." <br><br> <3 System Administration<br><br>
 
 
 ## 🌐 Socials:
