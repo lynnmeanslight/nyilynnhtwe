@@ -6,10 +6,10 @@
 </a>
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nyi_lynn_htwee) 
+
 
 LinkedIn | [@nyilynnhtwe](https://linkedin.com/in/nyilynnhtwe)<br> 
 Medium  | [@nyilynnhtwe](https://medium.com/@nyilynnhtwe) <br>
 Twitter | [@nyilynnhtwe](https://twitter.com/nyilynnhtwe) <br>
-Youtube | [@GopherViergan](https://youtube.com/@UCBI_zbPCvLucOdHyuWAnSiw)
-
+Youtube | [@GopherViergan](https://youtube.com/@UCBI_zbPCvLucOdHyuWAnSiw) <br>
+Instagram | [@nyi_lynn_htwe](https://instagram.com/nyi_lynn_htwee) 
