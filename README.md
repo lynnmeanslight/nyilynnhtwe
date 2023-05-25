@@ -6,5 +6,10 @@
 </a>
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nyi_lynn_htwee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nyilynnhtwe) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nyilynnhtwe) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nyilynnhtwe) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCBI_zbPCvLucOdHyuWAnSiw)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nyi_lynn_htwee) 
+
+LinkedIn | [@nyilynnhtwe](https://linkedin.com/in/nyilynnhtwe)<br> 
+Medium  | [@nyilynnhtwe](https://medium.com/@nyilynnhtwe) <br>
+Twitter | [@nyilynnhtwe](https://twitter.com/nyilynnhtwe) <br>
+Youtube | [@GopherViergan](https://youtube.com/@UCBI_zbPCvLucOdHyuWAnSiw)
 
