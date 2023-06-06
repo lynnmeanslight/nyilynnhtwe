@@ -8,8 +8,4 @@
 
 
 
-LinkedIn | [@nyilynnhtwe](https://linkedin.com/in/nyilynnhtwe)<br> 
-Medium  | [@nyilynnhtwe](https://medium.com/@nyilynnhtwe) <br>
-Twitter | [@nyilynnhtwe](https://twitter.com/nyilynnhtwe) <br>
-Youtube | [@GopherViergan](https://youtube.com/@UCBI_zbPCvLucOdHyuWAnSiw) <br>
-Instagram | [@nyi_lynn_htwe](https://instagram.com/nyi_lynn_htwee) 
+[LinkedIn](https://linkedin.com/in/nyilynnhtwe) | [Medium](https://medium.com/@nyilynnhtwe) | [Twitter](https://twitter.com/nyilynnhtwe) | [Youtube](https://youtube.com/@UCBI_zbPCvLucOdHyuWAnSiw) | [Instagram](https://instagram.com/nyi_lynn_htwee) 
